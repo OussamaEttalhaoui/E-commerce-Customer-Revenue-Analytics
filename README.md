@@ -1,6 +1,6 @@
 # 🛒 E-commerce Customer & Revenue Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing an e-commerce platform's customer behavior, revenue performance, and operational insights using data analytics techniques.
 
@@ -81,11 +81,6 @@ Dataset size:
 
 - Power BI
 
-
-## Version Control
-
-- Git
-- GitHub
 
 
 ---
