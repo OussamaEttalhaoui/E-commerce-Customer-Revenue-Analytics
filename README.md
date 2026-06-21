@@ -310,22 +310,19 @@ Contains:
 
 # 📈 Dashboard Preview
 
-Add your screenshots here:
-
-
 ## Executive Overview
 
-![Executive Dashboard](reports/dashboard_screenshots/executive_dashboard.png)
+<img width="751" height="428" alt="executive_dashboard" src="https://github.com/user-attachments/assets/7fbf0efb-b22b-4ed9-b554-c9830c89a37e" />
 
 
 ## Customer Analysis
 
-![Customer Analysis](reports/dashboard_screenshots/customer_analysis.png)
+<img width="742" height="396" alt="customer_analysis" src="https://github.com/user-attachments/assets/44c39c84-babf-4bbe-9ffe-4427a2823ddb" />
 
 
 ## Product Analysis
 
-![Product Analysis](reports/dashboard_screenshots/product_analysis.png)
+<img width="742" height="422" alt="product_analysis" src="https://github.com/user-attachments/assets/cf6faad1-77c6-4285-9739-5e5069246e5f" />
 
 
 ---
@@ -359,4 +356,35 @@ Add your screenshots here:
 ---
 
 # 📁 Project Structure
+│
+├── Data/
+│ ├── raw/
+│ └── processed/
+│
+├── Notebooks/
+│ ├── 01_Data_Exploration.ipynb
+│ ├── 02_Data_Cleaning.ipynb
+│ ├── 03_Feature_Engineering.ipynb
+│ ├── 04_RFM_Analysis.ipynb
+│ └── 05_Business_Insights.ipynb
+│
+├── PowerBi/
+│ └── Ecommerce_Customer_Revenue_Dashboard.pbix
+│
+├── Dashboard_Screenshots/
+│
+└── README.md
 
+
+# 🚀 Skills Demonstrated
+
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Data transformation
+- Feature engineering
+- Customer segmentation
+- RFM analysis
+- Business intelligence
+- Data visualization
+- Dashboard development
+- Business storytelling
