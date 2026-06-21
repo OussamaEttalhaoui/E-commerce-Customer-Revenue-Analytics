@@ -356,24 +356,28 @@ Contains:
 ---
 
 # 📁 Project Structure
-│
+
+```
+E-commerce-Customer-Revenue-Analytics/
+
 ├── Data/
-│ ├── raw/
-│ └── processed/
-│
+│   ├── raw/
+│   └── processed/
+
 ├── Notebooks/
-│ ├── 01_Data_Exploration.ipynb
-│ ├── 02_Data_Cleaning.ipynb
-│ ├── 03_Feature_Engineering.ipynb
-│ ├── 04_RFM_Analysis.ipynb
-│ └── 05_Business_Insights.ipynb
-│
-├── PowerBi/
-│ └── Ecommerce_Customer_Revenue_Dashboard.pbix
-│
+│   ├── 01_Data_Exploration.ipynb
+│   ├── 02_Data_Cleaning.ipynb
+│   ├── 03_Feature_Engineering.ipynb
+│   ├── 04_RFM_Analysis.ipynb
+│   └── 05_Business_Insights.ipynb
+
+├── PowerBI/
+│   └── Ecommerce_Customer_Revenue_Dashboard.pbix
+
 ├── Dashboard_Screenshots/
-│
+
 └── README.md
+```
 
 
 # 🚀 Skills Demonstrated
